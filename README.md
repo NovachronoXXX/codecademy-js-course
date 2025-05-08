@@ -71,4 +71,6 @@ Bem-vindo ao meu repositório de projetos JavaScript desenvolvidos durante o cur
    ```bash
    node nome-do-projeto.js
 
+##
 ⭐ Se este repositório foi útil para você, deixe uma estrela! Aprecio seu apoio.
+##
