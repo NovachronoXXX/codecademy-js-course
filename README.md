@@ -1,9 +1,9 @@
-# 📚 Projetos JavaScript - Codecademy Course
+# 📚 Projetos JavaScript - Codecademy Course 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Bem-vindo ao meu repositório de projetos JavaScript desenvolvidos durante o curso "Learn JavaScript" da Codecademy! Aqui você encontrará 11 projetos práticos que demonstram minha jornada de aprendizado em JavaScript, desde conceitos básicos até tópicos mais avançados como encapsulamento e manipulação de objetos.
+Bem-vindo ao meu repositório de projetos JavaScript desenvolvidos durante o curso "Learn JavaScript" da [Codecademy](codecademy.com)! Aqui você encontrará 11 projetos práticos que demonstram minha jornada de aprendizado em JavaScript, desde conceitos básicos até tópicos mais avançados como encapsulamento e manipulação de objetos.
 
 ## 📋 Lista de Projetos
 
@@ -70,3 +70,5 @@ Bem-vindo ao meu repositório de projetos JavaScript desenvolvidos durante o cur
 1. Clone este repositório:
    ```bash
    node nome-do-projeto.js
+
+⭐ Se este repositório foi útil para você, deixe uma estrela! Aprecio seu apoio.
