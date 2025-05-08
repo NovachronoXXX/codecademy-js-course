@@ -71,8 +71,6 @@ Bem-vindo ao meu repositório de projetos JavaScript desenvolvidos durante o cur
    ```bash
    node nome-do-projeto.js
 
----
-
+##
 <p align="center"> ⭐️ Deixe uma estrela se este projeto te ajudou ou se você gostou! ⭐️ </p>
-
----
+##
